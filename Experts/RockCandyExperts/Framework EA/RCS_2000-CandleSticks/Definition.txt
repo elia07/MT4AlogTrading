@@ -1,0 +1,1 @@
+This SubTree Contains all candlestick based startegies

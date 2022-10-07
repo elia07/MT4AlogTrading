@@ -1,0 +1,16 @@
+Gangs Battle 1
+simple
+--------------------------
+works on time frames more than 30M
+
+entry:
+	Wait for color change
+	Wait for an opposite attack
+	Enter on Engulfing or other 3sets CandleSticks
+
+sl:	Below Direct* Supertrend line
+tp:	2XSL
+
+tips:
+	if there is any open positions shall not open new ones
+	robbing turn 
